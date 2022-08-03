@@ -43,7 +43,7 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Hackathon For JavaScript Live Batch - iNeuron Revamp]()
+- [Hackathon For JavaScript Live Batch - iNeuron Revamp](https://ineuron-revamp.netlify.app/)
 
 &nbsp;
 ***
