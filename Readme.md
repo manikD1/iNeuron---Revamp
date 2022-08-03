@@ -48,4 +48,14 @@
 &nbsp;
 ***
 ## **📷 Post Designing Screenshots 📷**
-![]()
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot1.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot2.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot3.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot4.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot5.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot6.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot7.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot8.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot9.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot10.PNG)
+![](https://github.com/manikD1/iNeuron---Revamp/blob/main/Screenshots/Actual-Screenshot11.PNG)
