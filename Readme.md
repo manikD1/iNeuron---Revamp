@@ -47,5 +47,5 @@
 
 &nbsp;
 ***
-## **📷 Post Designing Screenshot 📷**
+## **📷 Post Designing Screenshots 📷**
 ![]()
