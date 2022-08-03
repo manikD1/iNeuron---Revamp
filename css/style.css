@@ -1608,6 +1608,7 @@ input{
         
     .products h1{
         font-size: 2em;
+        text-align: center;
     }
     
     .products h3{
